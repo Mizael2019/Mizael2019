@@ -2,10 +2,6 @@
 
 * Aprendendo a cada dia e seguindo na Humildade e Fé com os amigos.
 
-<!--
-**Mizael2019/Mizael2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Hi there 👋
 I'm Samuel Lucas
 🔭 I’m currently working at CWI Software as a Test Engineer.
@@ -16,3 +12,11 @@ Please, check it out my channel about testing automation:
 Canal Agilizei
 
 Github stats
+
+
+
+<!--
+**Mizael2019/Mizael2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
