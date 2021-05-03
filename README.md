@@ -1,4 +1,4 @@
-### Dev student👋
+### Dev QA student👋
 * Learning each day and following in Humility and Faith with friends.
 
 Hi there 👋<br>
