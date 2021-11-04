@@ -1,7 +1,7 @@
 ## Olá! Eu sou Mizael Tobias Nazareno<br>
 *Learning each day and following in Humility and Faith with friends.
 <br>
-🔭 Hoje trabalho na área de qualidade.<br>
+🔭 Hoje trabalho na área de qualidade como Eng.de Qualidade.<br>
 🌱 Estudando JavaScript e Typescript e aprimorando os skills na área de Qualidade.<br>
 📚 As vezes escrevo algum artigo no dev.to sobre minhas opniões e afins.<br>
 
